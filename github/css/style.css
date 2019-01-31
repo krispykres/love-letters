@@ -1,0 +1,93 @@
+body{
+      background-image:url(https://media.giphy.com/media/3ov9jHiEzknijxAD3q/giphy.gif);
+      background-size: cover;
+      background-repeat: no-repeat;
+}
+
+section{
+
+      padding-left: 10%;
+      padding-right: 10%;
+      padding-top: 8%;
+
+}
+
+h1{
+      font-family: 'Permanent Marker', cursive;
+      margin-left: 10%;
+      margin-right: 10%;
+      text-align: center;
+      font-size: 4em;
+      color: white;
+      border-color: white;
+      border-style: solid;
+      border-width: 0.1em;
+      
+      
+}
+
+h2{
+      font-family: 'Amatic SC', cursive;
+      font-size: 2em;
+      color: lightpink;
+      background-color: blueviolet;
+      opacity: 0.8;
+      float: left;
+      padding: 1%
+}
+
+h3{
+      font-family: 'Amatic SC', cursive;
+      font-size: 2em;
+      float: right;
+      color: lightpink;
+      background-color: blueviolet;
+      opacity: 0.8;
+      padding: 1%;
+}
+
+p{
+      font-family: 'Amatic SC', cursive;
+      font-size: 2em;
+      color: lightpink;
+      background-color: blueviolet;
+      opacity: 0.8;
+      padding: 5%;
+      float: left;
+}
+
+b{
+   color: aqua;
+}
+
+b:hover{
+      color: navy;
+}
+
+a{
+      text-decoration: underline;
+      color: greenyellow;
+}
+
+a:hover{
+      color: deepskyblue;
+}
+
+nav{
+
+      font-family: 'Permanent Marker', cursive;
+      font-size: 1.3em;
+
+}
+
+ul{
+      margin-left: 8%;
+}
+
+li{
+      float: left;
+      list-style-type: none;
+      padding: 1.2%;
+      background-color: blueviolet;
+      opacity: 0.8;
+}

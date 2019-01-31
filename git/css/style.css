@@ -1,0 +1,75 @@
+body{
+      background-image: url(../img/flamesbackground.png);
+      background-size: cover;
+      background-repeat: no-repeat;
+}
+
+section{
+      padding-left: 20%;
+      padding-right: 20%;
+      padding-top: 1%;
+      padding-bottom: 1%;
+
+}
+
+h1{
+      font-family: 'Anton', sans-serif;
+      text-align: center;
+      font-size: 4em;
+      color: white;
+}
+
+h2{
+      font-family: 'Abril Fatface', cursive;
+      font-size: 3em;
+      color: white;
+}
+
+h3{
+      font-family: 'Abril Fatface', cursive;
+      font-size: 3em;
+      float: right;
+      color: white;
+}
+
+p{
+      font-family: 'Abril Fatface', cursive;
+      font-size: 2em;
+      color: white;
+}
+
+b{
+   color: red;
+}
+
+b:hover{
+      color: blueviolet;
+}
+
+a{
+      text-decoration: underline;
+      color: cornflowerblue;
+}
+
+a:hover{
+      color: firebrick;
+}
+
+nav{
+      background-color: white;
+      font-family: 'Anton', sans-serif;
+      font-size: 1.3em;
+            margin-right: 10%;
+      margin-left: 10%;
+}
+
+ul{
+      text-align: center;
+      padding: 1%;
+}
+
+li{
+      display: inline;
+      padding: 3%;
+      
+}
